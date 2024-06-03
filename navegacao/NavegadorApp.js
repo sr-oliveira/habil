@@ -20,7 +20,7 @@ export default function NavegadorApp() {
         header: (props) => <Cabecalho {...props} navigation={navigation} route={route} />
       })}
     >
-      <Stack.Screen name="Inicial" component={TelaInicial} />
+      <Stack.Screen name="Hábil" component={TelaInicial} />
       <Stack.Screen name="Habilidades" component={TelaHabilidades} />
       <Stack.Screen name="Perfil" component={TelaPerfil} />
       <Stack.Screen name="CompraCreditos" component={TelaCompraCreditos} />
