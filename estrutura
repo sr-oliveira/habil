@@ -1,0 +1,24 @@
+habil/
+├── App.js
+├── assets/
+│   ├── ...
+├── componentes/
+│   ├── Cabecalho.js
+│   └── CartaoHabilidade.js
+├── navegacao/
+│   └── NavegadorApp.js
+├── telas/
+│   ├── TelaInicial.js
+│   ├── TelaHabilidades.js
+│   ├── TelaPerfil.js
+│   ├── TelaCompraCreditos.js
+│   ├── TelaContratacao.js
+│   └── TelaAprovacao.js
+├── servicos/
+│   ├── ServicoAutenticacao.js
+│   ├── ServicoHabilidade.js
+│   ├── ServicoTransacao.js
+│   └── ServicoAprovacao.js
+└── utilidades/
+    ├── Api.js
+    └── Armazenamento.js
